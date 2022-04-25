@@ -1,29 +1,39 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: phpbb # Your GitHub organization or username, where this repository lives
+repo: status-site # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: phpBB.com
+    url: https://www.phpbb.com
+  - name: Area51
+    url: https://area51.phpbb.com
+  - name: Tracker
+    url: https://tracker.phpbb.com
+  - name: Versioncheck
+    url: https://version.phpbb.com
+  - name: Blog
+    url: https://blog.phpbb.com
+  - name: Downloads
+    url: https://download.phpbb.com
+  - name: Demo
+    url: http://try-phpbb.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #cname: status.phpbb.com
+  baseUrl: /status-site
+  logoUrl: https://raw.githubusercontent.com/phpbb/phpbb/master/phpBB/styles/all/imgs/svg/phpbb_logo_large_cosmic.svg
+  name: phpBB Status Site
+  introTitle: Latest Updates
+  introMessage: Site to announce any maintenance and the current status of phpBB Group Sites
   navbar:
+    - title: Home
+      href: https://www.phpbb.com/
     - title: Status
       href: /
+    - title: Contact
+      href: https://www.phpbb.com/about/contact/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
