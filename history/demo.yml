@@ -1,7 +1,7 @@
 url: http://try-phpbb.com
-status: up
-code: 200
-responseTime: 708
-lastUpdated: 2022-04-25T23:01:02.492Z
+status: down
+code: 503
+responseTime: 810
+lastUpdated: 2022-04-26T18:14:16.869Z
 startTime: Mon Apr 25 2022 11:22:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
