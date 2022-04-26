@@ -4,19 +4,19 @@
     "url": "https://www.phpbb.com",
     "icon": "https://favicons.githubusercontent.com/www.phpbb.com",
     "slug": "php-bb-com",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "99.14%",
+    "status": "down",
+    "uptime": "99.01%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.01%",
     "time": 1095,
     "timeDay": 2007,
     "timeWeek": 1095,
     "timeMonth": 1095,
     "timeYear": 1095,
     "dailyMinutesDown": {
-      "2022-04-26": 16
+      "2022-04-26": 18
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://blog.phpbb.com",
     "icon": "https://favicons.githubusercontent.com/blog.phpbb.com",
     "slug": "blog",
-    "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.47%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.47%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
     "time": 2639,
     "timeDay": 2992,
     "timeWeek": 2639,
     "timeMonth": 2639,
     "timeYear": 2639,
     "dailyMinutesDown": {
-      "2022-04-26": 10
+      "2022-04-26": 11
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "http://try-phpbb.com",
     "icon": "https://favicons.githubusercontent.com/try-phpbb.com",
     "slug": "demo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 512,
-    "timeDay": 759,
-    "timeWeek": 512,
-    "timeMonth": 512,
-    "timeYear": 512,
+    "status": "up",
+    "uptime": "98.98%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
+    "time": 2185,
+    "timeDay": 4022,
+    "timeWeek": 2185,
+    "timeMonth": 2185,
+    "timeYear": 2185,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 19
     }
   }
 ]
