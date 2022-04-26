@@ -78,19 +78,19 @@
     "url": "https://blog.phpbb.com",
     "icon": "https://favicons.githubusercontent.com/blog.phpbb.com",
     "slug": "blog",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 2353,
-    "timeDay": 2202,
-    "timeWeek": 2353,
-    "timeMonth": 2353,
-    "timeYear": 2353,
+    "status": "up",
+    "uptime": "99.46%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
+    "time": 2639,
+    "timeDay": 2992,
+    "timeWeek": 2639,
+    "timeMonth": 2639,
+    "timeYear": 2639,
     "dailyMinutesDown": {
-      "2022-04-26": 1
+      "2022-04-26": 10
     }
   },
   {
