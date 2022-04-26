@@ -1,7 +1,7 @@
-url: http://try-phpbb.com
+url: $DEMO_SITE
 status: up
 code: 200
-responseTime: 10548
-lastUpdated: 2022-04-26T18:33:21.836Z
+responseTime: 147
+lastUpdated: 2022-04-26T19:24:35.987Z
 startTime: Mon Apr 25 2022 11:22:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
