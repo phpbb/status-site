@@ -16,7 +16,7 @@ sites:
   - name: Downloads
     url: https://download.phpbb.com
   - name: Demo
-    url: http://try-phpbb.com
+    url: $DEMO_SITE
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
