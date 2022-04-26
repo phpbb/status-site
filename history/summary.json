@@ -4,19 +4,19 @@
     "url": "https://www.phpbb.com",
     "icon": "https://favicons.githubusercontent.com/www.phpbb.com",
     "slug": "php-bb-com",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1234,
-    "timeDay": 2810,
-    "timeWeek": 1234,
-    "timeMonth": 1234,
-    "timeYear": 1234,
+    "status": "up",
+    "uptime": "99.08%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.08%",
+    "time": 1095,
+    "timeDay": 2007,
+    "timeWeek": 1095,
+    "timeMonth": 1095,
+    "timeYear": 1095,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 16
     }
   },
   {
