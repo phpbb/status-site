@@ -24,6 +24,7 @@ status-website:
   cname: status.phpbb.com
   # baseUrl: /status-site
   logoUrl: https://raw.githubusercontent.com/phpbb/phpbb/master/phpBB/styles/all/imgs/svg/phpbb_logo_large_cosmic.svg
+  favicon: assets/favicon.ico
   name: phpBB Status Site
   introTitle: Latest Updates
   introMessage: Site to announce any maintenance and the current status of phpBB Group Sites
