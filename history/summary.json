@@ -45,17 +45,17 @@
     "url": "https://tracker.phpbb.com",
     "icon": "https://favicons.githubusercontent.com/tracker.phpbb.com",
     "slug": "tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 409,
-    "timeDay": 466,
-    "timeWeek": 364,
-    "timeMonth": 428,
-    "timeYear": 409,
+    "time": 405,
+    "timeDay": 353,
+    "timeWeek": 352,
+    "timeMonth": 423,
+    "timeYear": 405,
     "dailyMinutesDown": {
       "2022-05-26": 10
     }
