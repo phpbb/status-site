@@ -4,11 +4,11 @@
     "url": "https://www.phpbb.com",
     "icon": "https://favicons.githubusercontent.com/www.phpbb.com",
     "slug": "php-bb-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
     "time": 454,
     "timeDay": 304,
@@ -16,7 +16,7 @@
     "timeMonth": 467,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2022-06-22": 17,
+      "2022-06-22": 20,
       "2022-05-26": 10,
       "2022-04-26": 29
     }
@@ -26,10 +26,10 @@
     "url": "https://area51.phpbb.com",
     "icon": "https://favicons.githubusercontent.com/area51.phpbb.com",
     "slug": "area51",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 221,
@@ -38,7 +38,7 @@
     "timeMonth": 226,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2022-06-22": 15,
+      "2022-06-22": 17,
       "2022-05-26": 10
     }
   },
@@ -47,11 +47,11 @@
     "url": "https://tracker.phpbb.com",
     "icon": "https://favicons.githubusercontent.com/tracker.phpbb.com",
     "slug": "tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 400,
     "timeDay": 763,
@@ -59,7 +59,7 @@
     "timeMonth": 386,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2022-06-22": 13,
+      "2022-06-22": 15,
       "2022-05-26": 10
     }
   },
@@ -68,19 +68,19 @@
     "url": "https://version.phpbb.com",
     "icon": "https://favicons.githubusercontent.com/version.phpbb.com",
     "slug": "versioncheck",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 191,
     "timeDay": 205,
     "timeWeek": 212,
     "timeMonth": 203,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2022-06-22": 12
+      "2022-06-22": 13
     }
   },
   {
@@ -88,9 +88,9 @@
     "url": "https://blog.phpbb.com",
     "icon": "https://favicons.githubusercontent.com/blog.phpbb.com",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.25%",
+    "uptimeDay": "99.21%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -100,7 +100,7 @@
     "timeMonth": 3229,
     "timeYear": 2773,
     "dailyMinutesDown": {
-      "2022-06-22": 11,
+      "2022-06-22": 12,
       "2022-06-15": 5,
       "2022-05-26": 9,
       "2022-04-26": 22
