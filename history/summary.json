@@ -170,7 +170,7 @@
     "url": "$DEMO_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "99.02%",
     "uptimeWeek": "99.86%",
