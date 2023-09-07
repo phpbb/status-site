@@ -1,7 +1,7 @@
 url: https://www.phpbb.com
-status: up
-code: 200
-responseTime: 8054
-lastUpdated: 2023-09-07T19:01:52.355Z
+status: down
+code: 503
+responseTime: 10251
+lastUpdated: 2023-09-07T19:15:22.167Z
 startTime: 2022-04-25T11:22:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
