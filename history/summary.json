@@ -185,18 +185,19 @@
     "url": "$DEMO_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.86%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 648,
+    "time": 649,
     "timeDay": 841,
     "timeWeek": 3222,
     "timeMonth": 1101,
     "timeYear": 413,
     "dailyMinutesDown": {
+      "2024-02-16": 0,
       "2024-02-14": 14,
       "2023-11-02": 3
     }
