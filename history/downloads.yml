@@ -1,7 +1,7 @@
 url: https://download.phpbb.com
-status: up
-code: 200
-responseTime: 624
-lastUpdated: 2025-11-18T14:49:28.983Z
+status: down
+code: 500
+responseTime: 74
+lastUpdated: 2025-11-18T15:10:42.952Z
 startTime: 2022-04-25T11:22:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
