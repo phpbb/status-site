@@ -1,7 +1,7 @@
 url: https://area51.phpbb.com
-status: up
-code: 200
-responseTime: 241
-lastUpdated: 2025-11-18T14:38:30.947Z
+status: down
+code: 500
+responseTime: 115
+lastUpdated: 2025-11-18T14:50:15.199Z
 startTime: 2022-04-25T11:22:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
