@@ -66,17 +66,17 @@
     "url": "https://tracker.phpbb.com",
     "icon": "https://icons.duckduckgo.com/ip3/tracker.phpbb.com.ico",
     "slug": "tracker",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 1135,
-    "timeDay": 501,
-    "timeWeek": 398,
-    "timeMonth": 378,
-    "timeYear": 1412,
+    "timeDay": 479,
+    "timeWeek": 406,
+    "timeMonth": 380,
+    "timeYear": 1410,
     "dailyMinutesDown": {
       "2025-08-21": 13,
       "2025-09-21": 29,
@@ -93,7 +93,7 @@
       "2026-02-28": 214,
       "2026-05-04": 5,
       "2026-05-14": 114,
-      "2026-07-03": 0
+      "2026-07-03": 1
     }
   },
   {
