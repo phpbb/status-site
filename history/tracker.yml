@@ -1,7 +1,7 @@
 url: https://tracker.phpbb.com
-status: up
-code: 200
-responseTime: 15607
-lastUpdated: 2026-09-22T23:52:58.716Z
+status: down
+code: 504
+responseTime: 20144
+lastUpdated: 2026-09-22T23:56:35.125Z
 startTime: 2022-04-25T11:22:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
