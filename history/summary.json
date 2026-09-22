@@ -139,17 +139,17 @@
     "url": "https://blog.phpbb.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.phpbb.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.93%",
-    "time": 641,
-    "timeDay": 277,
-    "timeWeek": 445,
-    "timeMonth": 1022,
-    "timeYear": 566,
+    "time": 681,
+    "timeDay": 10276,
+    "timeWeek": 2924,
+    "timeMonth": 1589,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2025-10-28": 26,
       "2025-11-18": 154,
@@ -157,7 +157,8 @@
       "2026-02-17": 27,
       "2026-05-14": 93,
       "2026-08-20": 22,
-      "2026-09-15": 14
+      "2026-09-15": 14,
+      "2026-09-22": 0
     }
   },
   {
@@ -169,7 +170,7 @@
     "uptime": "91.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "22.63%",
+    "uptimeMonth": "22.78%",
     "uptimeYear": "66.17%",
     "time": 293,
     "timeDay": 87,
