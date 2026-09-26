@@ -78,17 +78,17 @@
     "url": "https://tracker.phpbb.com",
     "icon": "https://icons.duckduckgo.com/ip3/tracker.phpbb.com.ico",
     "slug": "tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.83%",
     "time": 1384,
-    "timeDay": 245,
-    "timeWeek": 6658,
-    "timeMonth": 2960,
-    "timeYear": 1733,
+    "timeDay": 391,
+    "timeWeek": 6221,
+    "timeMonth": 2901,
+    "timeYear": 1730,
     "dailyMinutesDown": {
       "2025-10-07": 96,
       "2025-10-08": 87,
@@ -109,7 +109,8 @@
       "2026-08-31": 9,
       "2026-09-15": 21,
       "2026-09-22": 6,
-      "2026-09-23": 3
+      "2026-09-23": 3,
+      "2026-09-26": 0
     }
   },
   {
@@ -173,7 +174,7 @@
     "uptime": "91.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "33.84%",
+    "uptimeMonth": "34.63%",
     "uptimeYear": "66.17%",
     "time": 293,
     "timeDay": 279,
