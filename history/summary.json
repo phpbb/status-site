@@ -51,17 +51,17 @@
     "url": "https://area51.phpbb.com",
     "icon": "https://icons.duckduckgo.com/ip3/area51.phpbb.com.ico",
     "slug": "area51",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.78%",
-    "time": 421,
-    "timeDay": 239,
-    "timeWeek": 290,
-    "timeMonth": 285,
-    "timeYear": 376,
+    "time": 422,
+    "timeDay": 340,
+    "timeWeek": 318,
+    "timeMonth": 292,
+    "timeYear": 377,
     "dailyMinutesDown": {
       "2025-11-18": 141,
       "2025-12-05": 30,
@@ -73,7 +73,7 @@
       "2026-08-20": 24,
       "2026-09-15": 26,
       "2026-10-21": 256,
-      "2026-10-30": 0
+      "2026-10-30": 4
     }
   },
   {
