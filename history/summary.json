@@ -4,17 +4,17 @@
     "url": "https://www.phpbb.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.phpbb.com.ico",
     "slug": "php-bb-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.30%",
-    "uptimeYear": "99.80%",
-    "time": 2857,
-    "timeDay": 25021,
-    "timeWeek": 14511,
-    "timeMonth": 8473,
-    "timeYear": 3219,
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.79%",
+    "time": 2896,
+    "timeDay": 24938,
+    "timeWeek": 15162,
+    "timeMonth": 8809,
+    "timeYear": 3261,
     "dailyMinutesDown": {
       "2025-11-18": 143,
       "2025-12-05": 30,
@@ -45,7 +45,7 @@
       "2026-10-21": 268,
       "2026-10-29": 16,
       "2026-11-05": 11,
-      "2026-11-06": 11
+      "2026-11-06": 31
     }
   },
   {
