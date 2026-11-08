@@ -54,16 +54,16 @@
     "url": "https://area51.phpbb.com",
     "icon": "https://icons.duckduckgo.com/ip3/area51.phpbb.com.ico",
     "slug": "area51",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.78%",
     "time": 461,
-    "timeDay": 10219,
-    "timeWeek": 2756,
-    "timeMonth": 828,
+    "timeDay": 6943,
+    "timeWeek": 2494,
+    "timeMonth": 816,
     "timeYear": 426,
     "dailyMinutesDown": {
       "2025-11-18": 141,
@@ -77,7 +77,7 @@
       "2026-09-15": 26,
       "2026-10-21": 256,
       "2026-10-30": 4,
-      "2026-11-08": 1
+      "2026-11-08": 3
     }
   },
   {
@@ -151,9 +151,9 @@
     "slug": "blog",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.38%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "99.88%",
     "time": 681,
     "timeDay": 10195,
@@ -169,7 +169,7 @@
       "2026-09-15": 14,
       "2026-09-22": 3,
       "2026-10-21": 269,
-      "2026-11-08": 4
+      "2026-11-08": 7
     }
   },
   {
