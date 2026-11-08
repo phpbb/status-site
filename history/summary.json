@@ -4,17 +4,17 @@
     "url": "https://www.phpbb.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.phpbb.com.ico",
     "slug": "php-bb-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.37%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.36%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.79%",
-    "time": 2947,
-    "timeDay": 10257,
-    "timeWeek": 17672,
-    "timeMonth": 10378,
-    "timeYear": 3479,
+    "time": 2964,
+    "timeDay": 11069,
+    "timeWeek": 17435,
+    "timeMonth": 10422,
+    "timeYear": 3498,
     "dailyMinutesDown": {
       "2025-11-18": 143,
       "2025-12-05": 30,
@@ -46,7 +46,7 @@
       "2026-10-29": 16,
       "2026-11-05": 11,
       "2026-11-06": 52,
-      "2026-11-08": 1
+      "2026-11-08": 2
     }
   },
   {
@@ -54,17 +54,17 @@
     "url": "https://area51.phpbb.com",
     "icon": "https://icons.duckduckgo.com/ip3/area51.phpbb.com.ico",
     "slug": "area51",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.41%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "99.78%",
-    "time": 421,
-    "timeDay": 177,
-    "timeWeek": 256,
-    "timeMonth": 273,
-    "timeYear": 376,
+    "time": 461,
+    "timeDay": 10219,
+    "timeWeek": 2756,
+    "timeMonth": 828,
+    "timeYear": 426,
     "dailyMinutesDown": {
       "2025-11-18": 141,
       "2025-12-05": 30,
@@ -76,7 +76,8 @@
       "2026-08-20": 24,
       "2026-09-15": 26,
       "2026-10-21": 256,
-      "2026-10-30": 4
+      "2026-10-30": 4,
+      "2026-11-08": 1
     }
   },
   {
@@ -150,8 +151,8 @@
     "slug": "blog",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.88%",
     "time": 681,
@@ -168,7 +169,7 @@
       "2026-09-15": 14,
       "2026-09-22": 3,
       "2026-10-21": 269,
-      "2026-11-08": 0
+      "2026-11-08": 4
     }
   },
   {
