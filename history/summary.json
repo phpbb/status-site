@@ -178,16 +178,16 @@
     "url": "https://download.phpbb.com",
     "icon": "https://icons.duckduckgo.com/ip3/download.phpbb.com.ico",
     "slug": "downloads",
-    "status": "down",
+    "status": "up",
     "uptime": "92.01%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.46%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "66.13%",
-    "time": 291,
-    "timeDay": 264,
-    "timeWeek": 211,
-    "timeMonth": 227,
+    "time": 290,
+    "timeDay": 202,
+    "timeWeek": 196,
+    "timeMonth": 223,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2025-11-18": 152,
@@ -320,7 +320,7 @@
       "2026-05-14": 276,
       "2026-10-21": 230,
       "2026-10-30": 5,
-      "2026-11-13": 0
+      "2026-11-13": 5
     }
   },
   {
